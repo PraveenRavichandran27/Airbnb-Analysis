@@ -14,7 +14,7 @@ from PIL import Image
 # Streamlit part
 
 st.set_page_config(layout= "wide")
-st.title(":blue[AIRBNB -- DATA -- ANALYSIS]")
+st.title(":blue[AIRBNB -- ANALYSIS]")
 st.write("")
 
 def datafr():
