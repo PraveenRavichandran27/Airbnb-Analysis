@@ -1,6 +1,6 @@
 # Airbnb Analysis
 
-## Problem Statement
+## Problem Statement 
 
 The Airbnb industry deals with data related to listings, pricing, availability, and location-based trends. This project aims to analyze Airbnb data to gain insights into these aspects, enabling better decision-making for property management and tourism.
 
