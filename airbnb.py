@@ -10,7 +10,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from PIL import Image
 
-
+ 
 # Streamlit part
 
 st.set_page_config(layout= "wide")
